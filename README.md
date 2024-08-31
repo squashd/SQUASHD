@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Dan
+# Hi, I'm Dan
 
-🎾 Background: At university, I balanced studying mathematics with playing squash semi-competitively (hence the profile name), but I found that I like solving problems in code rather than on paper, so I've been all in on programming for the last few years.
-
-👨‍💻 Coding Path: Learned the basics first with Python. Moved onto frontend where I discovered my problem-child, TypeScript. My first repo was a basic HTML page, but even that simple little thing struck a chord. Later, I shifted to backend, delving into C# and ASP.NET Core.
+* 💻 Working at [boot.dev](https://boot.dev)
+* 🛠️ Love to tinker with tooling (neovim btw)
+* 📖 Learning Bash, Lua and Elixir
+* 🎓 Studied maths at university — forgot most of it, but still lethal at times tables
+* 🎾 Played squash semi-competitively (hence the username)
