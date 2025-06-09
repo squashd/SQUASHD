@@ -6,6 +6,6 @@
 * 🎓 Studied maths at university — forgot most of it, but still lethal at times tables
 * 🎾 Played squash semi-competitively (hence the username)
 
-<p align="right">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/03328380-d08b-4ad0-8c42-bce573c23f23/thumbnail" >
 </p>
