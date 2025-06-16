@@ -7,5 +7,5 @@
 * 🎾 Played squash semi-competitively (hence the username)
 
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/03328380-d08b-4ad0-8c42-bce573c23f23/thumbnail" style="width: 15vw; min-width: 330px;">
+  <img src="https://api.boot.dev/v1/users/public/03328380-d08b-4ad0-8c42-bce573c23f23/thumbnail" width="320" alt="Dan's Boot.dev profile card 🧙‍♂️" />
 </p>
